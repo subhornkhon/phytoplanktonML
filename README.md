@@ -6,13 +6,3 @@ Understanding and predicting dynamic of phytoplankton (algae) population in fres
 
 
 
-
-## Rename this repository to publish your site
-
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
-
-![octocat](./images/phyto flow.jpg)
-![GitHub Logo](phytoplanktonML/images/phyto flow.jpg)
