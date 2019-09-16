@@ -13,5 +13,5 @@ We've already set-up a GitHub Pages website for you, based on your personal user
 
 Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
 
-![repo-settings-image](images/phyto flow.jpg)
+
 ![octocat](./images/phyto flow.jpg)
